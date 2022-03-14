@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Angular 12 project
+- 🔭 I’m currently working on Angular 13 project
 - 🌱 I’m currently learning ReactJS
 
 ## Connect with me
