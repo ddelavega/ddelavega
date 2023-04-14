@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Angular 13 project
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently learning Docker ✨
+- 🔥 Currently working on several projects that vary between angular 12 13 14 and 15
+
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diegodelavegalinkedin/)
